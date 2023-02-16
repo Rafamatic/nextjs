@@ -1,4 +1,4 @@
-# nextjs with tailiwind css
+# nextjs first app with tailiwind css
 This is a simple first app with following Functions:
 Use of Link,Image,Button
 Routes ()
