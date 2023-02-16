@@ -1,4 +1,4 @@
-# nextjs applications withtailiwind css Chakra Ui
+# nextjs applications with tailiwind css Chakra Ui
 
 //MyApp//
 This is a simple first app with following Functions:
