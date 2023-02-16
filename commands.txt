@@ -1,3 +1,0 @@
-npx create-next-app@latest --experimental-app
-
-npm run dev
